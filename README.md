@@ -1,2 +1,19 @@
-# Movie-Recommendation-Assistant
-Movie Recommendation Assistant is an intelligent system that suggests movies based on user preferences such as genres, interests, or past choices. It improves content discovery through personalized recommendations and a simple user-friendly interface, reducing the effort required to find relevant movies.
+# Movie Recommendation Assistant
+
+## Overview
+An intelligent system that suggests movies based on user preferences such as genres and interests.
+
+## Features
+- Personalized movie recommendations
+- Simple and user-friendly interface
+- Efficient content discovery
+
+## Tech Stack
+- Python
+- Streamlit / Flask / CLI
+
+## How to Run
+```bash
+pip install -r requirements.txt
+python app.py
+
